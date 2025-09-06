@@ -36,15 +36,15 @@ mvn clean install
 text4. **Run the Application**:
 mvn spring-boot:run
 text- Default port is 8081 (configurable in `application.properties`).
-
+<img width="1920" height="1080" alt="shorturls_post" src="https://github.com/user-attachments/assets/c6fd1824-e958-4ee2-aab9-bdc9874b79dc" />
+<img width="1899" height="989" alt="shorturls_get" src="https://github.com/user-attachments/assets/5fe5bbbc-a4ee-4102-a574-01797ac644ec" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a591ab58-0165-498a-87f4-dbece65a2bed" />
 # API Endpoints
 - **Create Short URL**:
 - Method: `POST /shorturls`
 - Payload:
  ```json
-<img width="1920" height="1080" alt="shorturls_post" src="https://github.com/user-attachments/assets/c6fd1824-e958-4ee2-aab9-bdc9874b79dc" />
-<img width="1899" height="989" alt="shorturls_get" src="https://github.com/user-attachments/assets/5fe5bbbc-a4ee-4102-a574-01797ac644ec" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a591ab58-0165-498a-87f4-dbece65a2bed" />
+
 
 
 
