@@ -16,6 +16,7 @@ This project is a Spring Boot-based HTTP URL Shortener Microservice developed as
 - **Database**: PostgreSQL
 - **Build Tool**: Maven
 - **Language**: Java 17
+
 - **Dependencies**: Spring Data JPA, Lombok, HikariCP
 
 ## Installation
@@ -41,6 +42,12 @@ text- Default port is 8081 (configurable in `application.properties`).
 - Method: `POST /shorturls`
 - Payload:
  ```json
+<img width="1920" height="1080" alt="shorturls_post" src="https://github.com/user-attachments/assets/c6fd1824-e958-4ee2-aab9-bdc9874b79dc" />
+<img width="1899" height="989" alt="shorturls_get" src="https://github.com/user-attachments/assets/5fe5bbbc-a4ee-4102-a574-01797ac644ec" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a591ab58-0165-498a-87f4-dbece65a2bed" />
+
+
+
  {
    "url": "https://www.example.com/very-long-path",
    "validity": 45,
