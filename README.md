@@ -39,6 +39,12 @@ text- Default port is 8081 (configurable in `application.properties`).
 <img width="1920" height="1080" alt="shorturls_post" src="https://github.com/user-attachments/assets/c6fd1824-e958-4ee2-aab9-bdc9874b79dc" />
 <img width="1899" height="989" alt="shorturls_get" src="https://github.com/user-attachments/assets/5fe5bbbc-a4ee-4102-a574-01797ac644ec" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a591ab58-0165-498a-87f4-dbece65a2bed" />
+<img width="1920" height="1080" alt="database" src="https://github.com/user-attachments/assets/c2f0df80-4785-4b7e-b396-71df7bb28830" />
+<img width="1916" height="1026" alt="IDLE" src="https://github.com/user-attachments/assets/2df55814-b876-4fea-8aa0-adfe94a2e445" />
+<img width="1675" height="138" alt="logs" src="https://github.com/user-attachments/assets/f9a0158c-faa3-473a-bea4-a5887b346fe6" />
+
+
+
 # API Endpoints
 - **Create Short URL**:
 - Method: `POST /shorturls`
